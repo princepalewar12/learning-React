@@ -25,7 +25,7 @@ const HeadingComponent2 = () => (
   <div className="container">
     {HeadingComponent()}
     {jsxHeading}
-    <HeadingComponent />
+    <HeadingComponent/>
     <h1>Namaste React Functional Component TWO</h1>
   </div>
 );
